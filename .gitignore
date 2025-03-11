@@ -1,3 +1,11 @@
-# Godot 4+ specific ignores
-.godot/
-/android/
+
+# Ignore Godot's generated import files
+.import/
+
+# Ignore exported builds
+/build/
+
+# Ignore system-specific files
+*.log
+*.tmp
+    
