@@ -1,6 +1,6 @@
 <h1 align="left">🔥 Die First – Terror is Only the Beginning 🔥</h1>
 
-<p align="left"> 👻 </p>
+<p align="left"> </p>
 
 <p align="left"
 In Die First, you are not merely hunted by extraplanar horrors — you are the greatest among them, trapped in a temporal labyrinth that reflects your own guilt and obsession.
