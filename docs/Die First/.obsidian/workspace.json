@@ -1,0 +1,352 @@
+{
+  "main": {
+    "id": "897f94bd88d78bb6",
+    "type": "split",
+    "children": [
+      {
+        "id": "1b02f8bf1fa2040b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ad0bc1a7c4b977d6",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "IMG/DALL·E 2025-03-03 11.38.31 - A 16-bit pixel art isometric version of a dark, vast room inspired by H.P. Lovecraft's aesthetic. The room has ancient stone walls, covered in pixelat.webp"
+              },
+              "icon": "lucide-image",
+              "title": "DALL·E 2025-03-03 11.38.31 - A 16-bit pixel art isometric version of a dark, vast room inspired by H.P. Lovecraft's aesthetic. The room has ancient stone walls, covered in pixelat"
+            }
+          },
+          {
+            "id": "d1edd927b0bce79e",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "IMG/Imagem do WhatsApp de 2025-03-03 à(s) 12.08.24_2d2eb593.jpg"
+              },
+              "icon": "lucide-image",
+              "title": "Imagem do WhatsApp de 2025-03-03 à(s) 12.08.24_2d2eb593"
+            }
+          },
+          {
+            "id": "ce0244e1dc053e5d",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "IMG/Pasted image 20250303121214.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20250303121214"
+            }
+          },
+          {
+            "id": "defe5d227293eb25",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Die first.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Die first"
+            }
+          },
+          {
+            "id": "a3cac4b9114e2263",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Game Studio.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Game Studio"
+            }
+          },
+          {
+            "id": "ff48bd49e4f3ffe3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Die first.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Die first"
+            }
+          },
+          {
+            "id": "e06c7840b2bb0d5c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mecanicas/Mecânicas de Die First.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Mecânicas de Die First"
+            }
+          },
+          {
+            "id": "67e4f07d391ede9d",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "mapa mental.canvas",
+                "viewState": {
+                  "x": -246.31162217185363,
+                  "y": 2376.722244401641,
+                  "zoom": -1.8572136596974727
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "mapa mental"
+            }
+          },
+          {
+            "id": "9ca9b6bbc5d9dd8f",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "mapa mental.canvas",
+                "viewState": {
+                  "x": 591.3137843436612,
+                  "y": 3002.7680802316036,
+                  "zoom": -2.083755568995648
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "mapa mental"
+            }
+          },
+          {
+            "id": "a903cf65e15d154b",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "mapa mental.canvas",
+                "viewState": {
+                  "x": 228.31640287817277,
+                  "y": 1036.967484152118,
+                  "zoom": -1.083755568995648
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "mapa mental"
+            }
+          },
+          {
+            "id": "54a04781651dedd6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mecanicas/Mecânica da Luz.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Mecânica da Luz"
+            }
+          }
+        ],
+        "currentTab": 10
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b766ab1281fc7828",
+    "type": "split",
+    "children": [
+      {
+        "id": "f72dbad2d0953a05",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cad7c20265655bb9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "0fd0dc9ab9b9fc1f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "801a2945528843da",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c13f359c990c38e4",
+    "type": "split",
+    "children": [
+      {
+        "id": "413eee294656b66d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bd3b32c28ecb3257",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Die first.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Die first"
+            }
+          },
+          {
+            "id": "e6c8a422ea724fab",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Die first.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Die first"
+            }
+          },
+          {
+            "id": "c82d0b17300de798",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "5adb36f988895ba3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Die first.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Die first"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "54a04781651dedd6",
+  "lastOpenFiles": [
+    "Mecanicas/Mecânica geral.md",
+    "Mecanicas/Mecânica de sanidade.md",
+    "Mecanicas/Mecânica de recursos.md",
+    "Mecanicas/Mecânica de inimigos.md",
+    "Mecanicas/Mecânica das Salas.md",
+    "Mecanicas/Mecânica da Luz.md",
+    "Game Studio.md",
+    "Tarot.md",
+    "Luto.md",
+    "Luto e o Tarot.md",
+    "IMG/DALL·E 2025-03-03 16.46.38 - A 32-bit pixel art sprite of a mysterious investigator or explorer character, staying faithful to the original design. He wears a white long-sleeved s.webp",
+    "IMG/DALL·E 2025-03-03 11.36.39 - A 16-bit pixel art sprite sheet of a character with timeless clothing, including a plain shirt, pants, and boots. The sprite sheet includes different .webp",
+    "IMG/DALL·E 2025-02-21 13.15.54 - A 16-bit pixel art scene of a dark, vast room inspired by H.P. Lovecraft's aesthetic. The room has ancient stone walls, covered in pixelated moss and .webp",
+    "Untitled.md",
+    "Mecanicas/Mecânicas de Die First.md",
+    "mapa mental.canvas",
+    "Die first.md",
+    "Mecanicas",
+    "IMG/Pas2BBA.tmp",
+    "IMG/DALL·E 2025-03-03 11.51.36 - A 16-bit pixel art isometric version of an office that is merging with an ancient, otherworldly temple. The wooden walls and flooring are now partiall.webp.import",
+    "IMG/DALL·E 2025-03-03 11.53.59 - A 16-bit pixel art isometric version of an office that has been utterly consumed by an ancient, otherworldly temple, leaving no trace of its original .webp.import",
+    "IMG/DAL1AB9.tmp",
+    "IMG/DAL1AA8.tmp",
+    "IMG/DALL·E 2025-03-03 11.57.09 - A 16-bit pixel art isometric version of a space completely overtaken by an alien, eldritch nightmare. The floor is now fragmented, floating in impossi.webp.import",
+    "IMG/DAL199C.tmp",
+    "IMG/DALL·E 2025-03-03 12.09.14 - A 16-bit pixel art isometric version of a space that has fully transcended reality, becoming an incomprehensible alien nightmare. The floor is now an .webp.import",
+    "IMG/DALL·E 2025-03-03 12.10.17 - A 16-bit pixel art isometric version of the original room where this entire cosmic nightmare began. The space is unsettlingly ordinary, yet hints of s.webp.import",
+    "IMG/Pasted image 20250303164215.png",
+    "IMG/DALL·E 2025-03-03 16.22.20 - A set of 128x96 pixel floor tiles for a cosmic horror game, designed with old, cracked ceramic tiles. The tiles should be aged, with some broken edges.webp",
+    "IMG/Pasted image 20250303121214.png",
+    "IMG/Imagem do WhatsApp de 2025-03-03 à(s) 12.08.24_2d2eb593.jpg",
+    "IMG/DALL·E 2025-03-03 11.38.31 - A 16-bit pixel art isometric version of a dark, vast room inspired by H.P. Lovecraft's aesthetic. The room has ancient stone walls, covered in pixelat.webp",
+    "IMG/DALL·E 2025-03-03 16.15.38 - A set of 128x96 pixel floor tiles for a cosmic horror game, designed in a dark, cracked stone texture intertwined with grotesque, fleshy roots. The ro.webp",
+    "IMG/DALL·E 2025-03-03 16.12.27 - A set of 128x96 pixel floor tiles for a cosmic horror game, designed in a dark, decayed wooden texture. The tiles should have cracks, scratches, and s.webp"
+  ]
+}
