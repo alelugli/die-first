@@ -154,14 +154,17 @@
             "id": "54a04781651dedd6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Mecanicas/Mecânica da Luz.md",
-                "mode": "source",
-                "source": false
+                "file": "mapa mental.canvas",
+                "viewState": {
+                  "x": 10,
+                  "y": 1885,
+                  "zoom": -2.089063168692182
+                }
               },
-              "icon": "lucide-file",
-              "title": "Mecânica da Luz"
+              "icon": "lucide-layout-dashboard",
+              "title": "mapa mental"
             }
           }
         ],
@@ -314,12 +317,12 @@
   },
   "active": "54a04781651dedd6",
   "lastOpenFiles": [
+    "Mecanicas/Mecânica da Luz.md",
     "Mecanicas/Mecânica geral.md",
     "Mecanicas/Mecânica de sanidade.md",
     "Mecanicas/Mecânica de recursos.md",
     "Mecanicas/Mecânica de inimigos.md",
     "Mecanicas/Mecânica das Salas.md",
-    "Mecanicas/Mecânica da Luz.md",
     "Game Studio.md",
     "Tarot.md",
     "Luto.md",
