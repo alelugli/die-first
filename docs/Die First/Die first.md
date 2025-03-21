@@ -4,7 +4,7 @@
 
 Genre: Horror, Psychological Horror, Survival, Investigative
 
-Perspective: Isometric / Top-Down
+Perspective: FPS
 
 Inspiration: *Silent Hill, Darkwood, Bloodborne, H.R. Giger, The Thing, Event Horizon, The Mist*
 
