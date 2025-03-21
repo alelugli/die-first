@@ -14,6 +14,6 @@ There is a way forward. There must be.
 But every step brings a new question: Are you escaping the labyrinth, or are you the one creating it?
 </p>
 
-<img title="thumb" alt="image die frist" src="/resources/thumb.jpg">
+<img title="thumb" alt="image die frist" src="/docs/Die First/IMG/thumb.jpg">
 
 <br>
