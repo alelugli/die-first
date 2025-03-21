@@ -6,7 +6,7 @@ Genre: Horror, Psychological Horror, Survival, Investigative
 
 Perspective: FPS
 
-Inspiration: *Silent Hill, Darkwood, Bloodborne, H.R. Giger, The Thing, Event Horizon, The Mist*
+Inspiration: *Visage, PT, Silent Hill, Darkwood, Bloodborne, H.R. Giger, The Thing, Event Horizon, The Mist*
 
 Platforms: PC (potential for console release)
 
