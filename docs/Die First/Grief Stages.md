@@ -1,9 +1,15 @@
-| Estágio       | Descrição                                                                                                                                                                                                                                  |
-| ------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| **Negação**   | Nesta fase, a pessoa tem dificuldade em aceitar a realidade da perda, podendo agir como se nada tivesse acontecido. A negação funciona como um mecanismo de defesa temporário para lidar com a dor intensa.                                |
-| **Raiva**     | Ao reconhecer a realidade da perda, surgem sentimentos de revolta e injustiça. A pessoa pode questionar "Por que eu?" e direcionar sua raiva para si mesma, para outros ou para a situação em si.                                          |
-| **Barganha**  | Nesta etapa, a pessoa tenta negociar ou fazer acordos, muitas vezes com uma entidade superior, na esperança de reverter ou minimizar a perda. Exemplos incluem promessas ou mudanças de comportamento em troca de uma melhora na situação. |
-| **Depressão** | Ao perceber que a perda é inevitável, sentimentos profundos de tristeza, vazio e desesperança podem surgir. A pessoa pode se isolar, chorar frequentemente e sentir que a vida perdeu o sentido.                                           |
-| **Aceitação** | Na fase final, a pessoa começa a aceitar a realidade da perda e busca maneiras de seguir em frente. Embora a tristeza possa persistir, ela encontra formas de se adaptar e reinvestir em outras áreas da vida.                             |
+# 🖤 The Five Stages of Grief in Psychological Horror
 
+In *Die First*, grief is not a background theme—it is **woven into the very fabric of the experience**. Each stage represents a layer of emotional descent and transformation, both for the player and the world around them.
 
+| **Stage**      | **Description**  |
+|----------------|------------------|
+| **🕳 Denial**      | A state of **refusal and disbelief**, where the mind protects itself by **acting as if nothing has changed**. Denial is a **temporary defense** against overwhelming pain, creating a dissonance between perception and truth. |
+| **🔥 Anger**       | As reality sets in, **rage emerges**—sometimes irrational, often misdirected. The player may question, *"Why me?"*, directing fury inward, outward, or toward the world. In this stage, the world itself might **respond in kind**. |
+| **🔗 Bargaining**  | The mind seeks **control or reversal** through negotiation—sometimes with unseen forces, sometimes with itself. Players might offer sacrifices or attempt impossible deals, trying to stave off the inevitable. |
+| **💧 Depression**   | The weight of the truth settles. Feelings of **emptiness, despair, and isolation** surface. The world feels colder. Movement becomes slower. Light grows dim. This stage reflects the emotional paralysis that grief brings. |
+| **🌙 Acceptance**   | Acceptance does not erase pain, but it allows space for **clarity and forward movement**. Here, the player begins to adapt—not by forgetting, but by carrying the grief forward as **part of who they now are**. |
+
+---
+
+🩸 *Grief in Die First is more than emotional—it shapes the labyrinth, alters perception, and challenges identity.*
